@@ -49,7 +49,6 @@
     "whitespace": false,
     "cyclomatic-complexity": false,
     "adjacent-overload-signatures": true,
-    // https://github.com/palantir/tslint/issues/1301
     "forin": true,
     "no-conditional-assignment": true,
     // https://github.com/palantir/tslint/issues/2927, https://github.com/palantir/tslint/issues/2021
